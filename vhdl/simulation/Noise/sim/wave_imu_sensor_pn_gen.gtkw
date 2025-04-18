@@ -1,0 +1,43 @@
+[*]
+[*] GTKWave Analyzer v3.4.0 (w)1999-2022 BSI
+[*] Fri Mar 21 19:56:49 2025
+[*]
+[dumpfile] "/home/jonas/Insync/Google_Drive/Documents/Studium/FH_Technikum/MES/4_MES_Arbeit/HDL_Development/bare_HDL_modules/Noise/sim/imu_sensor_pn_gen.ghw"
+[dumpfile_mtime] "Fri Mar 21 19:56:37 2025"
+[dumpfile_size] 602188
+[savefile] "/home/jonas/Insync/Google_Drive/Documents/Studium/FH_Technikum/MES/4_MES_Arbeit/HDL_Development/bare_HDL_modules/Noise/sim/wave_imu_sensor_pn_gen.gtkw"
+[timestart] 0
+[size] 2560 1338
+[pos] -1 -1
+*-30.583139 575000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top.
+[treeopen] top.tb_imu_sensor_pn_gen.
+[sst_width] 405
+[signals_width] 262
+[sst_expanded] 1
+[sst_vpaned_height] 781
+@28
+top.tb_imu_sensor_pn_gen.clk_i
+top.tb_imu_sensor_pn_gen.rst_i
+top.tb_imu_sensor_pn_gen.tick_i
+#{top.tb_imu_sensor_pn_gen.scale_factor_i[1:0]} top.tb_imu_sensor_pn_gen.scale_factor_i[1] top.tb_imu_sensor_pn_gen.scale_factor_i[0]
+@22
+#{top.tb_imu_sensor_pn_gen.unique_seed_i[7:0]} top.tb_imu_sensor_pn_gen.unique_seed_i[7] top.tb_imu_sensor_pn_gen.unique_seed_i[6] top.tb_imu_sensor_pn_gen.unique_seed_i[5] top.tb_imu_sensor_pn_gen.unique_seed_i[4] top.tb_imu_sensor_pn_gen.unique_seed_i[3] top.tb_imu_sensor_pn_gen.unique_seed_i[2] top.tb_imu_sensor_pn_gen.unique_seed_i[1] top.tb_imu_sensor_pn_gen.unique_seed_i[0]
+@8022
+#{top.tb_imu_sensor_pn_gen.imu_pn_gen.accel_x_l_i[7:0]} top.tb_imu_sensor_pn_gen.imu_pn_gen.accel_x_l_i[7] top.tb_imu_sensor_pn_gen.imu_pn_gen.accel_x_l_i[6] top.tb_imu_sensor_pn_gen.imu_pn_gen.accel_x_l_i[5] top.tb_imu_sensor_pn_gen.imu_pn_gen.accel_x_l_i[4] top.tb_imu_sensor_pn_gen.imu_pn_gen.accel_x_l_i[3] top.tb_imu_sensor_pn_gen.imu_pn_gen.accel_x_l_i[2] top.tb_imu_sensor_pn_gen.imu_pn_gen.accel_x_l_i[1] top.tb_imu_sensor_pn_gen.imu_pn_gen.accel_x_l_i[0]
+@20000
+-
+@8022
+#{top.tb_imu_sensor_pn_gen.imu_pn_gen.accel_x_l_o[7:0]} top.tb_imu_sensor_pn_gen.imu_pn_gen.accel_x_l_o[7] top.tb_imu_sensor_pn_gen.imu_pn_gen.accel_x_l_o[6] top.tb_imu_sensor_pn_gen.imu_pn_gen.accel_x_l_o[5] top.tb_imu_sensor_pn_gen.imu_pn_gen.accel_x_l_o[4] top.tb_imu_sensor_pn_gen.imu_pn_gen.accel_x_l_o[3] top.tb_imu_sensor_pn_gen.imu_pn_gen.accel_x_l_o[2] top.tb_imu_sensor_pn_gen.imu_pn_gen.accel_x_l_o[1] top.tb_imu_sensor_pn_gen.imu_pn_gen.accel_x_l_o[0]
+@20000
+-
+@8022
+#{top.tb_imu_sensor_pn_gen.imu_pn_gen.accel_x_h_i[7:0]} top.tb_imu_sensor_pn_gen.imu_pn_gen.accel_x_h_i[7] top.tb_imu_sensor_pn_gen.imu_pn_gen.accel_x_h_i[6] top.tb_imu_sensor_pn_gen.imu_pn_gen.accel_x_h_i[5] top.tb_imu_sensor_pn_gen.imu_pn_gen.accel_x_h_i[4] top.tb_imu_sensor_pn_gen.imu_pn_gen.accel_x_h_i[3] top.tb_imu_sensor_pn_gen.imu_pn_gen.accel_x_h_i[2] top.tb_imu_sensor_pn_gen.imu_pn_gen.accel_x_h_i[1] top.tb_imu_sensor_pn_gen.imu_pn_gen.accel_x_h_i[0]
+@20000
+-
+@8022
+#{top.tb_imu_sensor_pn_gen.accel_x_h_o[7:0]} top.tb_imu_sensor_pn_gen.accel_x_h_o[7] top.tb_imu_sensor_pn_gen.accel_x_h_o[6] top.tb_imu_sensor_pn_gen.accel_x_h_o[5] top.tb_imu_sensor_pn_gen.accel_x_h_o[4] top.tb_imu_sensor_pn_gen.accel_x_h_o[3] top.tb_imu_sensor_pn_gen.accel_x_h_o[2] top.tb_imu_sensor_pn_gen.accel_x_h_o[1] top.tb_imu_sensor_pn_gen.accel_x_h_o[0]
+@20000
+-
+[pattern_trace] 1
+[pattern_trace] 0

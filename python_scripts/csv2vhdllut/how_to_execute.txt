@@ -1,0 +1,2 @@
+# Example execution
+python csv2vhdllut.py data.csv imu_val_luts.vhd --rows 500

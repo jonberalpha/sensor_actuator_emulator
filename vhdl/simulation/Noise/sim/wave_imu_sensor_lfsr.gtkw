@@ -1,0 +1,30 @@
+[*]
+[*] GTKWave Analyzer v3.4.0 (w)1999-2022 BSI
+[*] Sat Mar 15 16:46:40 2025
+[*]
+[dumpfile] "/home/jonas/Insync/Google_Drive/Documents/Studium/FH_Technikum/MES/4_MES_Arbeit/HDL_Development/bare_HDL_modules/Noise/sim/imu_sensor_lfsr.ghw"
+[dumpfile_mtime] "Sat Mar 15 16:37:34 2025"
+[dumpfile_size] 1401070
+[savefile] "/home/jonas/Insync/Google_Drive/Documents/Studium/FH_Technikum/MES/4_MES_Arbeit/HDL_Development/bare_HDL_modules/Noise/sim/wave.gtkw"
+[timestart] 0
+[size] 1920 1098
+[pos] -51 -51
+*-27.457146 796900000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top.
+[treeopen] top.tb_imu_sensor_lfsr.
+[sst_width] 322
+[signals_width] 147
+[sst_expanded] 1
+[sst_vpaned_height] 331
+@28
+top.tb_imu_sensor_lfsr.rst_i
+top.tb_imu_sensor_lfsr.clk_i
+top.tb_imu_sensor_lfsr.tick_i
+@22
+#{top.tb_imu_sensor_lfsr.pn_o[7:0]} top.tb_imu_sensor_lfsr.pn_o[7] top.tb_imu_sensor_lfsr.pn_o[6] top.tb_imu_sensor_lfsr.pn_o[5] top.tb_imu_sensor_lfsr.pn_o[4] top.tb_imu_sensor_lfsr.pn_o[3] top.tb_imu_sensor_lfsr.pn_o[2] top.tb_imu_sensor_lfsr.pn_o[1] top.tb_imu_sensor_lfsr.pn_o[0]
+@48020
+#{top.tb_imu_sensor_lfsr.pn_o[7:0]} top.tb_imu_sensor_lfsr.pn_o[7] top.tb_imu_sensor_lfsr.pn_o[6] top.tb_imu_sensor_lfsr.pn_o[5] top.tb_imu_sensor_lfsr.pn_o[4] top.tb_imu_sensor_lfsr.pn_o[3] top.tb_imu_sensor_lfsr.pn_o[2] top.tb_imu_sensor_lfsr.pn_o[1] top.tb_imu_sensor_lfsr.pn_o[0]
+@20001
+-
+[pattern_trace] 1
+[pattern_trace] 0

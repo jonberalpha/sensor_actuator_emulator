@@ -1,0 +1,33 @@
+[*]
+[*] GTKWave Analyzer v3.4.0 (w)1999-2022 BSI
+[*] Sun Feb  2 13:23:43 2025
+[*]
+[dumpfile] "/home/jonas/Insync/Google_Drive/Documents/Studium/FH_Technikum/MES/4_MES_Arbeit/HDL_Development/bare_HDL_modules/PWM_Analyzer/sim/pwm_analyzer.ghw"
+[dumpfile_mtime] "Sun Feb  2 13:20:21 2025"
+[dumpfile_size] 373783008
+[savefile] "/home/jonas/Insync/Google_Drive/Documents/Studium/FH_Technikum/MES/4_MES_Arbeit/HDL_Development/bare_HDL_modules/PWM_Analyzer/sim/wave.gtkw"
+[timestart] 0
+[size] 1920 1098
+[pos] -33 -33
+*-44.607819 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top.
+[treeopen] top.tb_pwm_analyzer.
+[treeopen] top.tb_pwm_analyzer.i_pwm_analyzer.
+[sst_width] 322
+[signals_width] 230
+[sst_expanded] 1
+[sst_vpaned_height] 331
+@28
+top.tb_pwm_analyzer.rst_i
+top.tb_pwm_analyzer.clk_i
+top.tb_pwm_analyzer.pwm_i
+@24
+#{top.tb_pwm_analyzer.i_pwm_analyzer.s_cnt_hi[31:0]} top.tb_pwm_analyzer.i_pwm_analyzer.s_cnt_hi[31] top.tb_pwm_analyzer.i_pwm_analyzer.s_cnt_hi[30] top.tb_pwm_analyzer.i_pwm_analyzer.s_cnt_hi[29] top.tb_pwm_analyzer.i_pwm_analyzer.s_cnt_hi[28] top.tb_pwm_analyzer.i_pwm_analyzer.s_cnt_hi[27] top.tb_pwm_analyzer.i_pwm_analyzer.s_cnt_hi[26] top.tb_pwm_analyzer.i_pwm_analyzer.s_cnt_hi[25] top.tb_pwm_analyzer.i_pwm_analyzer.s_cnt_hi[24] top.tb_pwm_analyzer.i_pwm_analyzer.s_cnt_hi[23] top.tb_pwm_analyzer.i_pwm_analyzer.s_cnt_hi[22] top.tb_pwm_analyzer.i_pwm_analyzer.s_cnt_hi[21] top.tb_pwm_analyzer.i_pwm_analyzer.s_cnt_hi[20] top.tb_pwm_analyzer.i_pwm_analyzer.s_cnt_hi[19] top.tb_pwm_analyzer.i_pwm_analyzer.s_cnt_hi[18] top.tb_pwm_analyzer.i_pwm_analyzer.s_cnt_hi[17] top.tb_pwm_analyzer.i_pwm_analyzer.s_cnt_hi[16] top.tb_pwm_analyzer.i_pwm_analyzer.s_cnt_hi[15] top.tb_pwm_analyzer.i_pwm_analyzer.s_cnt_hi[14] top.tb_pwm_analyzer.i_pwm_analyzer.s_cnt_hi[13] top.tb_pwm_analyzer.i_pwm_analyzer.s_cnt_hi[12] top.tb_pwm_analyzer.i_pwm_analyzer.s_cnt_hi[11] top.tb_pwm_analyzer.i_pwm_analyzer.s_cnt_hi[10] top.tb_pwm_analyzer.i_pwm_analyzer.s_cnt_hi[9] top.tb_pwm_analyzer.i_pwm_analyzer.s_cnt_hi[8] top.tb_pwm_analyzer.i_pwm_analyzer.s_cnt_hi[7] top.tb_pwm_analyzer.i_pwm_analyzer.s_cnt_hi[6] top.tb_pwm_analyzer.i_pwm_analyzer.s_cnt_hi[5] top.tb_pwm_analyzer.i_pwm_analyzer.s_cnt_hi[4] top.tb_pwm_analyzer.i_pwm_analyzer.s_cnt_hi[3] top.tb_pwm_analyzer.i_pwm_analyzer.s_cnt_hi[2] top.tb_pwm_analyzer.i_pwm_analyzer.s_cnt_hi[1] top.tb_pwm_analyzer.i_pwm_analyzer.s_cnt_hi[0]
+#{top.tb_pwm_analyzer.i_pwm_analyzer.s_cnt_lo[31:0]} top.tb_pwm_analyzer.i_pwm_analyzer.s_cnt_lo[31] top.tb_pwm_analyzer.i_pwm_analyzer.s_cnt_lo[30] top.tb_pwm_analyzer.i_pwm_analyzer.s_cnt_lo[29] top.tb_pwm_analyzer.i_pwm_analyzer.s_cnt_lo[28] top.tb_pwm_analyzer.i_pwm_analyzer.s_cnt_lo[27] top.tb_pwm_analyzer.i_pwm_analyzer.s_cnt_lo[26] top.tb_pwm_analyzer.i_pwm_analyzer.s_cnt_lo[25] top.tb_pwm_analyzer.i_pwm_analyzer.s_cnt_lo[24] top.tb_pwm_analyzer.i_pwm_analyzer.s_cnt_lo[23] top.tb_pwm_analyzer.i_pwm_analyzer.s_cnt_lo[22] top.tb_pwm_analyzer.i_pwm_analyzer.s_cnt_lo[21] top.tb_pwm_analyzer.i_pwm_analyzer.s_cnt_lo[20] top.tb_pwm_analyzer.i_pwm_analyzer.s_cnt_lo[19] top.tb_pwm_analyzer.i_pwm_analyzer.s_cnt_lo[18] top.tb_pwm_analyzer.i_pwm_analyzer.s_cnt_lo[17] top.tb_pwm_analyzer.i_pwm_analyzer.s_cnt_lo[16] top.tb_pwm_analyzer.i_pwm_analyzer.s_cnt_lo[15] top.tb_pwm_analyzer.i_pwm_analyzer.s_cnt_lo[14] top.tb_pwm_analyzer.i_pwm_analyzer.s_cnt_lo[13] top.tb_pwm_analyzer.i_pwm_analyzer.s_cnt_lo[12] top.tb_pwm_analyzer.i_pwm_analyzer.s_cnt_lo[11] top.tb_pwm_analyzer.i_pwm_analyzer.s_cnt_lo[10] top.tb_pwm_analyzer.i_pwm_analyzer.s_cnt_lo[9] top.tb_pwm_analyzer.i_pwm_analyzer.s_cnt_lo[8] top.tb_pwm_analyzer.i_pwm_analyzer.s_cnt_lo[7] top.tb_pwm_analyzer.i_pwm_analyzer.s_cnt_lo[6] top.tb_pwm_analyzer.i_pwm_analyzer.s_cnt_lo[5] top.tb_pwm_analyzer.i_pwm_analyzer.s_cnt_lo[4] top.tb_pwm_analyzer.i_pwm_analyzer.s_cnt_lo[3] top.tb_pwm_analyzer.i_pwm_analyzer.s_cnt_lo[2] top.tb_pwm_analyzer.i_pwm_analyzer.s_cnt_lo[1] top.tb_pwm_analyzer.i_pwm_analyzer.s_cnt_lo[0]
+#{top.tb_pwm_analyzer.pulse_cnt_hi_o[31:0]} top.tb_pwm_analyzer.pulse_cnt_hi_o[31] top.tb_pwm_analyzer.pulse_cnt_hi_o[30] top.tb_pwm_analyzer.pulse_cnt_hi_o[29] top.tb_pwm_analyzer.pulse_cnt_hi_o[28] top.tb_pwm_analyzer.pulse_cnt_hi_o[27] top.tb_pwm_analyzer.pulse_cnt_hi_o[26] top.tb_pwm_analyzer.pulse_cnt_hi_o[25] top.tb_pwm_analyzer.pulse_cnt_hi_o[24] top.tb_pwm_analyzer.pulse_cnt_hi_o[23] top.tb_pwm_analyzer.pulse_cnt_hi_o[22] top.tb_pwm_analyzer.pulse_cnt_hi_o[21] top.tb_pwm_analyzer.pulse_cnt_hi_o[20] top.tb_pwm_analyzer.pulse_cnt_hi_o[19] top.tb_pwm_analyzer.pulse_cnt_hi_o[18] top.tb_pwm_analyzer.pulse_cnt_hi_o[17] top.tb_pwm_analyzer.pulse_cnt_hi_o[16] top.tb_pwm_analyzer.pulse_cnt_hi_o[15] top.tb_pwm_analyzer.pulse_cnt_hi_o[14] top.tb_pwm_analyzer.pulse_cnt_hi_o[13] top.tb_pwm_analyzer.pulse_cnt_hi_o[12] top.tb_pwm_analyzer.pulse_cnt_hi_o[11] top.tb_pwm_analyzer.pulse_cnt_hi_o[10] top.tb_pwm_analyzer.pulse_cnt_hi_o[9] top.tb_pwm_analyzer.pulse_cnt_hi_o[8] top.tb_pwm_analyzer.pulse_cnt_hi_o[7] top.tb_pwm_analyzer.pulse_cnt_hi_o[6] top.tb_pwm_analyzer.pulse_cnt_hi_o[5] top.tb_pwm_analyzer.pulse_cnt_hi_o[4] top.tb_pwm_analyzer.pulse_cnt_hi_o[3] top.tb_pwm_analyzer.pulse_cnt_hi_o[2] top.tb_pwm_analyzer.pulse_cnt_hi_o[1] top.tb_pwm_analyzer.pulse_cnt_hi_o[0]
+#{top.tb_pwm_analyzer.pulse_cnt_lo_o[31:0]} top.tb_pwm_analyzer.pulse_cnt_lo_o[31] top.tb_pwm_analyzer.pulse_cnt_lo_o[30] top.tb_pwm_analyzer.pulse_cnt_lo_o[29] top.tb_pwm_analyzer.pulse_cnt_lo_o[28] top.tb_pwm_analyzer.pulse_cnt_lo_o[27] top.tb_pwm_analyzer.pulse_cnt_lo_o[26] top.tb_pwm_analyzer.pulse_cnt_lo_o[25] top.tb_pwm_analyzer.pulse_cnt_lo_o[24] top.tb_pwm_analyzer.pulse_cnt_lo_o[23] top.tb_pwm_analyzer.pulse_cnt_lo_o[22] top.tb_pwm_analyzer.pulse_cnt_lo_o[21] top.tb_pwm_analyzer.pulse_cnt_lo_o[20] top.tb_pwm_analyzer.pulse_cnt_lo_o[19] top.tb_pwm_analyzer.pulse_cnt_lo_o[18] top.tb_pwm_analyzer.pulse_cnt_lo_o[17] top.tb_pwm_analyzer.pulse_cnt_lo_o[16] top.tb_pwm_analyzer.pulse_cnt_lo_o[15] top.tb_pwm_analyzer.pulse_cnt_lo_o[14] top.tb_pwm_analyzer.pulse_cnt_lo_o[13] top.tb_pwm_analyzer.pulse_cnt_lo_o[12] top.tb_pwm_analyzer.pulse_cnt_lo_o[11] top.tb_pwm_analyzer.pulse_cnt_lo_o[10] top.tb_pwm_analyzer.pulse_cnt_lo_o[9] top.tb_pwm_analyzer.pulse_cnt_lo_o[8] top.tb_pwm_analyzer.pulse_cnt_lo_o[7] top.tb_pwm_analyzer.pulse_cnt_lo_o[6] top.tb_pwm_analyzer.pulse_cnt_lo_o[5] top.tb_pwm_analyzer.pulse_cnt_lo_o[4] top.tb_pwm_analyzer.pulse_cnt_lo_o[3] top.tb_pwm_analyzer.pulse_cnt_lo_o[2] top.tb_pwm_analyzer.pulse_cnt_lo_o[1] top.tb_pwm_analyzer.pulse_cnt_lo_o[0]
+@420
+top.tb_pwm_analyzer.pwm_high_time
+top.tb_pwm_analyzer.pwm_low_time
+[pattern_trace] 1
+[pattern_trace] 0

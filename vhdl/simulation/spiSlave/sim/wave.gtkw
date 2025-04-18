@@ -1,0 +1,27 @@
+[*]
+[*] GTKWave Analyzer v3.4.0 (w)1999-2022 BSI
+[*] Thu Mar 20 21:03:28 2025
+[*]
+[dumpfile] "/home/jonas/Insync/Google_Drive/Documents/Studium/FH_Technikum/MES/4_MES_Arbeit/HDL_Development/bare_HDL_modules/spiSlave/sim/imu_sensor_spiSlave.ghw"
+[dumpfile_mtime] "Thu Mar 20 21:03:20 2025"
+[dumpfile_size] 331940
+[savefile] "/home/jonas/Insync/Google_Drive/Documents/Studium/FH_Technikum/MES/4_MES_Arbeit/HDL_Development/bare_HDL_modules/spiSlave/sim/wave.gtkw"
+[timestart] 0
+[size] 1608 600
+[pos] 2250 74
+*-35.256130 0 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top.
+[sst_width] 322
+[signals_width] 137
+[sst_expanded] 1
+[sst_vpaned_height] 157
+@28
+top.tb_imu_sensor_spislave.clk_i
+top.tb_imu_sensor_spislave.rst_i
+top.tb_imu_sensor_spislave.mosi_i
+top.tb_imu_sensor_spislave.miso_o
+top.tb_imu_sensor_spislave.sck_i
+@29
+top.tb_imu_sensor_spislave.ss_i
+[pattern_trace] 1
+[pattern_trace] 0

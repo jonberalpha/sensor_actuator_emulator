@@ -1,0 +1,2 @@
+# Change the file names in the follwoing line in the python script
+compare_files("log_100us_tick_100Hz.csv", "data.csv", "output.csv")
