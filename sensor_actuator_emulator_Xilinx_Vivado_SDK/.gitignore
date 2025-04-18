@@ -13,6 +13,9 @@ local.properties
 .settings/
 .loadpath
 .recommenders
+Debug
+webtalk
+*.log
 
 # External tool builders
 .externalToolBuilders/
@@ -179,6 +182,10 @@ ipshared
 #########
 #Exclude all
 *
+!Makefile
+!*.csv
+!*.bif
+!*.bin
 !*/
 !.gitignore
 ###########################################################################

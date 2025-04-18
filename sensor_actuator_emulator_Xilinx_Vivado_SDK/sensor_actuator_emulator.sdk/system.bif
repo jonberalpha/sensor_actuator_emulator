@@ -1,0 +1,8 @@
+//arch = zynq; split = false; format = BIN
+the_ROM_image:
+{
+	[bootloader]./sdk_workspace/fsbl/Debug/fsbl.elf
+	../sensor_actuator_emulator.runs/impl_1/sensor_actuator_emulator_wrapper.bit
+	./sdk_workspace/sw_arm_c0/Debug/sw_arm_c0.elf
+	./sdk_workspace/sw_arm_c1/Debug/sw_arm_c1.elf
+}
