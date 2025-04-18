@@ -1,5 +1,5 @@
 # sensor_actuator_emulator
-[![DOI](https://zenodo.org/badge/968733189.svg)](https://doi.org/10.5281/zenodo.15242685)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15243424.svg)](https://doi.org/10.5281/zenodo.15243424)
 
 This repository contains various code components for building and testing a FPGA-based Sensor-Actuator Emulation System designed for digital control applications. The project covers hardware description in VHDL/Verilog, data conversion and analysis scripts in Python, and firmware for embedded platforms including PlatformIO and STM32CubeIDE.
 
