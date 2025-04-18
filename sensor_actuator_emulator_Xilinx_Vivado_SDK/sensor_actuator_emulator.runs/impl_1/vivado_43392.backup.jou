@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2016.1 (64-bit)
+# SW Build 1538259 on Fri Apr  8 15:45:23 MDT 2016
+# IP Build 1537824 on Fri Apr  8 04:28:57 MDT 2016
+# Start of session at: Sat Oct 12 13:58:32 2024
+# Process ID: 43392
+# Current directory: /home/jonas/Documents/Windows11Shared/IMU_ICM20948/IMU_ICM20948.runs/impl_1
+# Command line: vivado -log imu_icm20948_bd_wrapper.vdi -applog -messageDb vivado.pb -mode batch -source imu_icm20948_bd_wrapper.tcl -notrace
+# Log file: /home/jonas/Documents/Windows11Shared/IMU_ICM20948/IMU_ICM20948.runs/impl_1/imu_icm20948_bd_wrapper.vdi
+# Journal file: /home/jonas/Documents/Windows11Shared/IMU_ICM20948/IMU_ICM20948.runs/impl_1/vivado.jou
+#-----------------------------------------------------------
+source imu_icm20948_bd_wrapper.tcl -notrace

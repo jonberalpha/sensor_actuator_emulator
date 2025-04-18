@@ -1,0 +1,131 @@
+{
+   guistr: "# # String gsaved with Nlview 6.5.12  2016-01-29 bk=1.3547 VDI=39 GEI=35 GUI=JA:1.6
+#  -string -flagsOSRD
+preplace port scl_io -pg 1 -y 600 -defaultsOSRD
+preplace port DDR -pg 1 -y 2170 -defaultsOSRD
+preplace port uart_rtl -pg 1 -y 2340 -defaultsOSRD
+preplace port pwm_i -pg 1 -y 2490 -defaultsOSRD
+preplace port mosi_int_o -pg 1 -y 1560 -defaultsOSRD
+preplace port ss_ext_i -pg 1 -y 740 -defaultsOSRD
+preplace port reset_rtl -pg 1 -y 2040 -defaultsOSRD
+preplace port miso_int_o -pg 1 -y 1580 -defaultsOSRD
+preplace port miso_ext_o -pg 1 -y 1330 -defaultsOSRD
+preplace port sck_ext_i -pg 1 -y 720 -defaultsOSRD
+preplace port sck_int_o -pg 1 -y 1600 -defaultsOSRD
+preplace port sda_io -pg 1 -y 620 -defaultsOSRD
+preplace port sw0_i -pg 1 -y 2110 -defaultsOSRD
+preplace port tick -pg 1 -y 1780 -defaultsOSRD
+preplace port mosi_ext_i -pg 1 -y 520 -defaultsOSRD
+preplace port hall_signal_o -pg 1 -y 2500 -defaultsOSRD
+preplace port FIXED_IO -pg 1 -y 2280 -defaultsOSRD
+preplace portBus sw2_i -pg 1 -y 2390 -defaultsOSRD
+preplace portBus ss_int_o -pg 1 -y 1620 -defaultsOSRD
+preplace portBus ld0_o -pg 1 -y 2420 -defaultsOSRD
+preplace portBus sw3_i -pg 1 -y 2410 -defaultsOSRD
+preplace inst imu_sensor_0 -pg 1 -lvl 5 -y 1000 -defaultsOSRD
+preplace inst xlslice_0 -pg 1 -lvl 5 -y 1180 -defaultsOSRD -orient R180
+preplace inst axi_iic_0 -pg 1 -lvl 5 -y 150 -defaultsOSRD
+preplace inst imu_sensor_1 -pg 1 -lvl 5 -y 730 -defaultsOSRD
+preplace inst rst_processing_system7_0_100M -pg 1 -lvl 3 -y 2020 -defaultsOSRD
+preplace inst xlslice_1 -pg 1 -lvl 5 -y 1270 -defaultsOSRD -orient R180
+preplace inst imu_sensor_2 -pg 1 -lvl 5 -y 450 -defaultsOSRD
+preplace inst i2c_spi_master_select_0 -pg 1 -lvl 4 -y 410 -defaultsOSRD
+preplace inst xadc_wiz_0 -pg 1 -lvl 5 -y 2070 -defaultsOSRD
+preplace inst xlslice_2 -pg 1 -lvl 5 -y 1390 -defaultsOSRD -orient R180
+preplace inst xlconstant_1 -pg 1 -lvl 4 -y 960 -defaultsOSRD
+preplace inst pwm_hall_0 -pg 1 -lvl 5 -y 2500 -defaultsOSRD
+preplace inst xlslice_3 -pg 1 -lvl 5 -y 1480 -defaultsOSRD -orient R180
+preplace inst util_vector_logic_0 -pg 1 -lvl 2 -y 2000 -defaultsOSRD
+preplace inst axi_timer_0 -pg 1 -lvl 5 -y 1880 -defaultsOSRD
+preplace inst xlconcat_0 -pg 1 -lvl 2 -y 660 -defaultsOSRD
+preplace inst xlconcat_1 -pg 1 -lvl 2 -y 800 -defaultsOSRD
+preplace inst util_vector_logic_2 -pg 1 -lvl 1 -y 1990 -defaultsOSRD
+preplace inst xlconcat_2 -pg 1 -lvl 2 -y 1600 -defaultsOSRD
+preplace inst xlconcat_3 -pg 1 -lvl 2 -y 930 -defaultsOSRD
+preplace inst xlconcat_4 -pg 1 -lvl 4 -y 2220 -defaultsOSRD
+preplace inst axi_uartlite_0 -pg 1 -lvl 5 -y 2350 -defaultsOSRD
+preplace inst i2c_master_multi_slave_con_0 -pg 1 -lvl 3 -y 650 -defaultsOSRD
+preplace inst axi_quad_spi_0 -pg 1 -lvl 5 -y 1680 -defaultsOSRD
+preplace inst processing_system7_0_axi_periph -pg 1 -lvl 4 -y 1870 -defaultsOSRD
+preplace inst processing_system7_0 -pg 1 -lvl 3 -y 2250 -defaultsOSRD
+preplace netloc ss_ext_i_1 1 0 4 NJ 740 NJ 730 NJ 800 NJ
+preplace netloc xlslice_2_Dout 1 4 1 1630
+preplace netloc processing_system7_0_axi_periph_M08_AXI 1 4 1 1430
+preplace netloc axi_timer_0_interrupt 1 2 4 600 1110 NJ 1110 1590 1780 1920
+preplace netloc axi_iic_0_sda_t 1 3 3 1130 220 NJ 290 1900
+preplace netloc util_vector_logic_0_Res 1 2 1 N
+preplace netloc processing_system7_0_FIXED_IO 1 3 3 NJ 2280 NJ 2280 NJ
+preplace netloc i2c_master_multi_slave_con_0_master_sda_i 1 3 1 1020
+preplace netloc xlconcat_2_dout 1 2 1 570
+preplace netloc sw_i_1 1 0 6 NJ 2110 NJ 2110 NJ 2110 1070 2420 NJ 2420 NJ
+preplace netloc sck_ext_i_1 1 0 4 NJ 720 NJ 720 NJ 790 NJ
+preplace netloc pwm_i_1 1 0 5 NJ 2490 NJ 2490 NJ 2490 NJ 2490 NJ
+preplace netloc xlconcat_1_dout 1 2 1 550
+preplace netloc axi_quad_spi_0_sck_o 1 3 3 1100 1570 NJ 1570 1930
+preplace netloc xlconcat_0_dout 1 2 1 N
+preplace netloc axi_quad_spi_0_io0_o 1 3 3 1120 1560 NJ 1560 1950
+preplace netloc xlslice_3_Dout 1 4 1 1610
+preplace netloc processing_system7_0_axi_periph_M06_AXI 1 4 1 1480
+preplace netloc processing_system7_0_DDR 1 3 3 NJ 2160 NJ 2170 NJ
+preplace netloc i2c_spi_master_select_0_ss_slv_o 1 4 1 1480
+preplace netloc i2c_spi_master_select_0_miso_int_o 1 4 2 NJ 1340 1940
+preplace netloc i2c_spi_master_select_0_sda_t_sw_o 1 2 3 610 780 NJ 780 1430
+preplace netloc imu_sensor_0_sda_o 1 1 5 300 1540 NJ 1540 NJ 1540 NJ 1540 1920
+preplace netloc i2c_master_multi_slave_con_0_master_scl_i 1 3 1 1010
+preplace netloc imu_sensor_0_scl_o 1 1 5 280 1120 NJ 1120 NJ 1120 NJ 1120 1900
+preplace netloc xlconstant_1_dout 1 4 1 1600
+preplace netloc processing_system7_0_axi_periph_M05_AXI 1 4 1 1460
+preplace netloc processing_system7_0_FCLK_RESET0_N 1 0 4 30 2410 NJ 2410 NJ 2410 1020
+preplace netloc i2c_spi_master_select_0_scl_t_sw_o 1 2 3 610 530 NJ 600 1450
+preplace netloc imu_sensor_0_sda_t 1 1 5 300 870 NJ 870 NJ 870 NJ 870 1900
+preplace netloc xlslice_1_Dout 1 4 1 1620
+preplace netloc processing_system7_0_axi_periph_M02_AXI 1 4 1 1440
+preplace netloc processing_system7_0_axi_periph_M03_AXI 1 4 1 1580
+preplace netloc axi_uartlite_0_UART 1 5 1 NJ
+preplace netloc processing_system7_0_axi_periph_M07_AXI 1 4 1 1450
+preplace netloc In1_1 1 0 4 NJ 2400 NJ 2400 NJ 2400 NJ
+preplace netloc reset_rtl_1 1 0 2 NJ 2040 NJ
+preplace netloc imu_sensor_0_scl_t 1 1 5 290 1530 NJ 1530 NJ 1530 NJ 1530 1910
+preplace netloc mosi_ext_i_1 1 0 4 NJ 520 NJ 520 NJ 520 NJ
+preplace netloc xlslice_0_Dout 1 4 1 1640
+preplace netloc i2c_master_multi_slave_con_0_slave_scl_i 1 3 3 NJ 1130 NJ 1130 1900
+preplace netloc ACLK_1 1 2 3 610 1930 1100 1590 1500
+preplace netloc processing_system7_0_axi_periph_M01_AXI 1 4 1 1460
+preplace netloc Net 1 3 3 NJ 610 NJ 600 NJ
+preplace netloc Net1 1 3 3 NJ 620 NJ 610 NJ
+preplace netloc i2c_spi_master_select_0_sda_i_o 1 4 2 NJ 310 1920
+preplace netloc rst_processing_system7_0_100M_interconnect_aresetn 1 3 1 1120
+preplace netloc processing_system7_0_axi_periph_M00_AXI 1 4 1 1460
+preplace netloc i2c_spi_master_select_0_io0_slv_o 1 4 1 1470
+preplace netloc imu_sensor_1_sda_o 1 1 5 300 1660 NJ 1660 NJ 1550 NJ 1550 1930
+preplace netloc i2c_spi_master_select_0_scl_o_sw_o 1 2 3 540 230 NJ 230 1430
+preplace netloc imu_sensor_1_scl_o 1 1 5 300 740 NJ 810 NJ 850 NJ 850 1910
+preplace netloc util_vector_logic_2_Res 1 1 1 NJ
+preplace netloc xlconcat_3_dout 1 2 1 590
+preplace netloc axi_iic_0_scl_o 1 3 3 1100 10 NJ 10 1920
+preplace netloc processing_system7_0_M_AXI_GP0 1 3 1 1110
+preplace netloc i2c_spi_master_select_0_sda_o_sw_o 1 2 3 600 770 NJ 770 1440
+preplace netloc pwm_hall_0_hall_signal_o 1 5 1 NJ
+preplace netloc imu_sensor_1_sda_t 1 1 5 300 990 NJ 990 NJ 880 NJ 880 1920
+preplace netloc xlconstant_0_dout 1 4 1 1570
+preplace netloc i2c_spi_master_select_0_scl_i_o 1 4 2 NJ 300 1930
+preplace netloc i2c_master_multi_slave_con_0_slave_sda_i 1 3 3 NJ 1320 NJ 1320 1900
+preplace netloc imu_sensor_1_scl_t 1 1 5 300 860 NJ 860 NJ 860 NJ 860 1900
+preplace netloc axi_iic_0_sda_o 1 3 3 1120 210 NJ 280 1910
+preplace netloc processing_system7_0_axi_periph_M04_AXI 1 4 1 1520
+preplace netloc axi_iic_0_scl_t 1 3 3 1110 20 NJ 20 1900
+preplace netloc i2c_spi_master_select_0_sck_slv_o 1 4 1 1490
+preplace netloc i2c_spi_master_select_0_miso_ext_o 1 4 2 NJ 1330 NJ
+preplace netloc rst_processing_system7_0_100M_peripheral_aresetn 1 3 2 1130 2150 1510
+preplace netloc In0_1 1 0 4 NJ 2390 NJ 2390 NJ 2390 NJ
+preplace netloc imu_sensor_2_io1_o 1 3 3 1130 590 NJ 590 1900
+preplace netloc axi_quad_spi_0_ss_o 1 3 3 1110 1580 NJ 1580 1910
+levelinfo -pg 1 0 150 420 810 1280 1770 1970 -top 0 -bot 2580
+",
+}
+{
+   da_axi4_cnt: "21",
+   da_board_cnt: "4",
+   da_mb_cnt: "1",
+   da_ps7_cnt: "2",
+}

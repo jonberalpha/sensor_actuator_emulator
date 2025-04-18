@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<document>
+<!--The data in this file is primarily intended for consumption by Xilinx tools.
+The structure and the elements are likely to change over the next few releases.
+This means code written to parse this file will need to be revisited each subsequent release.-->
+<application name="pa" timeStamp="Fri Dec 13 19:25:50 2024">
+<section name="Project Information" visible="false">
+<property name="ProjectID" value="38dab539223c41bd812c229c17bf2c8d" type="ProjectID"/>
+<property name="ProjectIteration" value="1" type="ProjectIteration"/>
+</section>
+<section name="PlanAhead Usage" visible="true">
+<item name="Project Data">
+<property name="SrcSetCount" value="1" type="SrcSetCount"/>
+<property name="ConstraintSetCount" value="1" type="ConstraintSetCount"/>
+<property name="DesignMode" value="RTL" type="DesignMode"/>
+<property name="SynthesisStrategy" value="Vivado Synthesis Defaults" type="SynthesisStrategy"/>
+<property name="ImplStrategy" value="Vivado Implementation Defaults" type="ImplStrategy"/>
+</item>
+<item name="Java Command Handlers">
+<property name="AddSources" value="2" type="JavaHandler"/>
+<property name="CloseProject" value="1" type="JavaHandler"/>
+<property name="CoreView" value="1" type="JavaHandler"/>
+<property name="EditDelete" value="5" type="JavaHandler"/>
+<property name="EditInIPPackagerHandler" value="1" type="JavaHandler"/>
+<property name="IPPackagerHandler" value="1" type="JavaHandler"/>
+</item>
+<item name="Gui Resources Info">
+<property name="CANCEL, Cancel" value="1" type="GuiResourceData"/>
+<property name="FINISH, Finish" value="1" type="GuiResourceData"/>
+<property name="NEXT, Next " value="2" type="GuiResourceData"/>
+<property name="PAResourceAtoD.CoreTreeTablePanel_ADD_IP_TO_REPOSITORY, Add IP to Repository..." value="2" type="GuiResourceData"/>
+<property name="PAResourceAtoD.CoreTreeTablePanel_CORE_TREE_TABLE, AXI Peripheral ;  ;  ;  ; , 1" value="2" type="GuiResourceData"/>
+<property name="PAResourceAtoD.CoreTreeTablePanel_CORE_TREE_TABLE, User Repository ;  ;  ;  ; , 0, User Repository, 0, true, false, false, false, true, false" value="2" type="GuiResourceData"/>
+<property name="PAResourceAtoD.CoreTreeTablePanel_CORE_TREE_TABLE, UserIP ;  ;  ;  ; , 3" value="1" type="GuiResourceData"/>
+<property name="PAResourceAtoD.CoreTreeTablePanel_CORE_TREE_TABLE, axi_imu_sensor_v1.0 ; AXI4 ; Production ; Included ; user.org:user:axi_imu_sensor:1.0, 2, axi_imu_sensor_v1.0, 0, false" value="1" type="GuiResourceData"/>
+<property name="PAResourceAtoD.CoreTreeTablePanel_CORE_TREE_TABLE, axi_imu_sensor_v1.0 ; AXI4 ; Production ; Included ; user.org:user:axi_imu_sensor:1.0, 2, axi_imu_sensor_v1.0, 0, false, false, false, false, true, false" value="3" type="GuiResourceData"/>
+<property name="PAResourceAtoD.CoreTreeTablePanel_CORE_TREE_TABLE, imu_sensor_v1_0 ;  ; Production ; Included ; user.org:user:imu_sensor:1.0, 4, imu_sensor_v1_0, 0, false, false, false, false, true, false" value="1" type="GuiResourceData"/>
+<property name="PAResourceAtoD.CoreTreeTablePanel_DISABLE_IP, Disable IP" value="3" type="GuiResourceData"/>
+<property name="PAResourceCommand.PACommandNames_ADD_SOURCES, Add Sources..." value="2" type="GuiResourceData"/>
+<property name="PAResourceCommand.PACommandNames_AUTO_UPDATE_HIER, Hierarchy Update" value="3" type="GuiResourceData"/>
+<property name="PAResourceCommand.PACommandNames_EDIT_IN_IP_PACKAGER, Edit in IP Packager" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileGroupFacetTable_FILE_GROUP_FACET_TABLE, Advanced ;  ;  ; false ;  ; , 3" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileGroupFacetTable_FILE_GROUP_FACET_TABLE, Software Driver ;  ;  ; false ;  ; , 4" value="2" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileGroupFacetTable_FILE_GROUP_FACET_TABLE, Synthesis ;  ;  ; false ;  ; axi_imu_sensor_v1_0, 1" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, [root, Design Sources, IP-XACT], 8" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, [root, Design Sources, Non-module Files, axi_imu_sensor_i2cSlave_define.v], 2, false" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, [root, Design Sources, Non-module Files, axi_imu_sensor_i2cSlave_define.v], 2, false, false, false, false, true, false" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, [root, Design Sources, Non-module Files], 1" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, [root, Design Sources, Verilog], 1" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, [root, Design Sources, axi_imu_sensor_imu_core - struc (axi_imu_sensor_imu_core.vhd" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, [root, Design Sources, axi_imu_sensor_lfsr - rtl (axi_imu_sensor_lfsr.vhd" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, [root, Design Sources, axi_imu_sensor_noise_apply - rtl (axi_imu_sensor_noise_apply.vhd" value="2" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, [root, Design Sources, axi_imu_sensor_pn_gen - rtl (axi_imu_sensor_pn_gen.vhd" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, [root, Design Sources, axi_imu_sensor_spiSlave - rtl (axi_imu_sensor_spiSlave.vhd" value="2" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, [root, Design Sources, axi_imu_sensor_tick_gen - rtl (axi_imu_sensor_tick_gen.vhd" value="2" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, [root, Design Sources, axi_imu_sensor_v1_0 - arch_imp (axi_imu_sensor_v1_0.vhd" value="4" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, [root, Design Sources, imu_sensor_v1_0 - arch_imp (imu_sensor_v1_0.vhd" value="2" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, [root, Design Sources, sensor_actuator_emulator_wrapper - STRUCTURE (sensor_actuator_emulator_wrapper.vhd" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, [root, Design Sources], 0, true, false, false, false, true, false" value="5" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FlowNavigatorTreePanel_FLOW_NAVIGATOR_TREE, [, Project Manager, IP Catalog], 4, false" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.GettingStartedView_RECENT_PROJECTS, /home/jonas/Documents/Windows11Shared/sensor_actuator_emulator/sensor_actuator_emulator.xpr, 0" value="1" type="GuiResourceData"/>
+<property name="PAResourceItoN.IdentificationContentPanel_DESCRIPTION, IMU Sensor I2C/SPI with AXI Slave Reg/Tick Streaming" value="1" type="GuiResourceData"/>
+<property name="PAResourceItoN.IdentificationContentPanel_DISPLAY_NAME, imu_sensor_v1.0" value="1" type="GuiResourceData"/>
+<property name="PAResourceItoN.IdentificationContentPanel_NAME, imu_sensor" value="1" type="GuiResourceData"/>
+<property name="PAResourceItoN.MessageBanner_CHANGES_DETECTED_IN_VIVADO_PROJECT_THAT, Merge changes from File Groups Wizard" value="1" type="GuiResourceData"/>
+<property name="PAResourceItoN.MessageBanner_SEE_LIST_OF_INFO_MESSAGES, 1 info message" value="1" type="GuiResourceData"/>
+<property name="PAResourceItoN.MessageBanner_SEE_LIST_OF_WARNING_MESSAGES, 32 warnings" value="1" type="GuiResourceData"/>
+<property name="PAResourceItoN.MsgTreePanel_MESSAGE_VIEW_TREE, [, IP Packager, File Groups Wizard, [IP_Flow 19-2187] The Product Guide file is missing.. ], 4, false" value="1" type="GuiResourceData"/>
+<property name="PAResourceItoN.MsgTreePanel_MESSAGE_VIEW_TREE, [, IP Packager, File Groups Wizard, [IP_Flow 19-731] File Group 'xilinx_anylanguagesynthesis (Synthesis" value="2" type="GuiResourceData"/>
+<property name="PAResourceItoN.MsgTreePanel_MESSAGE_VIEW_TREE, [, Vivado Commands, General Messages, [IP_Flow 19-1663] Duplicate IP found for 'user.org:user:axi_imu_sensor:1.0'. The one found in IP location '/home/jonas/Documents/Windows11Shared/sensor_actuator_emulator/myips/axi_imu_sensor_1.0' will take precedence over the same IP in location /home/jonas/Documents/Windows11Shared/sensor_actuator_emulator/myips/axi_imu_sensor_1. ], 6, false" value="1" type="GuiResourceData"/>
+<property name="PAResourceItoN.MsgTreePanel_MESSAGE_VIEW_TREE, [, Vivado Commands, General Messages], 1" value="1" type="GuiResourceData"/>
+<property name="PAResourceItoN.MsgView_CRITICAL_WARNINGS, (String" value="2" type="GuiResourceData"/>
+<property name="PAResourceOtoP.PackagerStepsPanel_PACKAGER_STEPS_LIST, Customization Parameters, 3" value="1" type="GuiResourceData"/>
+<property name="PAResourceOtoP.PackagerStepsPanel_PACKAGER_STEPS_LIST, File Groups, 2" value="2" type="GuiResourceData"/>
+<property name="PAResourceOtoP.PlanAheadTab_REFRESH_IP_CATALOG, Refresh IP Catalog" value="1" type="GuiResourceData"/>
+<property name="PAResourceQtoS.SaveProjectUtils_DONT_SAVE, Don't Save" value="1" type="GuiResourceData"/>
+<property name="PAResourceQtoS.SrcChooserPanel_ADD_HDL_AND_NETLIST_FILES_TO_YOUR_PROJECT, Add Files" value="2" type="GuiResourceData"/>
+<property name="PAResourceQtoS.SrcMenu_IP_HIERARCHY, IP Hierarchy" value="3" type="GuiResourceData"/>
+<property name="RDIResource.BaseDialog_OK, OK" value="8" type="GuiResourceData"/>
+<property name="RDIResource.BaseReportTab_RERUN, Rerun" value="1" type="GuiResourceData"/>
+<property name="RDIResourceCommand.RDICommands_DELETE, Remove File from Project..." value="5" type="GuiResourceData"/>
+</item>
+<item name="Other">
+<property name="GuiMode" value="85" type="GuiMode"/>
+<property name="BatchMode" value="0" type="BatchMode"/>
+<property name="TclMode" value="83" type="TclMode"/>
+</item>
+</section>
+</application>
+</document>

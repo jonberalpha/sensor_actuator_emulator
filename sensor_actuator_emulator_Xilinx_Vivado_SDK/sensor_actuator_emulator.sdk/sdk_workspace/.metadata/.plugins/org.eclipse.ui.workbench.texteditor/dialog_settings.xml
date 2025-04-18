@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="false" key="isRegEx"/>
+		<item value="CLK_FREQ" key="selection"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="true" key="wrap"/>
+		<item value="false" key="wholeword"/>
+		<list key="findhistory">
+			<item value="clk_freq"/>
+			<item value="sleep"/>
+			<item value="XScuGic_CPUWriteReg"/>
+			<item value="DDR3_BASE_ADDR"/>
+			<item value="sensor_data_arr"/>
+			<item value="\r"/>
+			<item value="pitch"/>
+			<item value="XPS_GLOBAL_TMR_INT_ID"/>
+		</list>
+		<list key="replacehistory">
+			<item value="CLK_FREQ"/>
+			<item value="sensor_data_arr"/>
+			<item value=""/>
+			<item value="xInterruptController"/>
+			<item value="printf"/>
+			<item value="xil_printf"/>
+			<item value="u8"/>
+			<item value="u32"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="257" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="381" key="DIALOG_HEIGHT"/>
+		<item value="1127" key="DIALOG_X_ORIGIN"/>
+		<item value="165" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

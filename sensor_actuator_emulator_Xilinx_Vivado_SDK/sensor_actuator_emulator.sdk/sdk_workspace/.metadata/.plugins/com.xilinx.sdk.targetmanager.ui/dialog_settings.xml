@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="sensor_actuator_emulator" key="programfpga.hwplatform"/>
+	<item value="false" key="sensor_actuator_emulator-partial_bit"/>
+	<item value="sensor_actuator_emulator_wrapper.bit" key="sensor_actuator_emulator-bitFile"/>
+	<item value="bootloop" key="sensor_actuator_emulator-microblaze_0-initElf"/>
+	<item value="" key="sensor_actuator_emulator-bmmFile"/>
+	<item value="Local" key="sensor_actuator_emulator-target"/>
+	<item value="Auto Detect" key="sensor_actuator_emulator-device"/>
+</section>

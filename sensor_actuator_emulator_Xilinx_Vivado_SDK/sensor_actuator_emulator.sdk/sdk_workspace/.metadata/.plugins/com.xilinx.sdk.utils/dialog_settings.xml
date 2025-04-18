@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="\\VBOXSVR\Windows11Shared\sensor_actuator_emulator\sensor_actuator_emulator.sdk" key="bootgen_files_selection"/>
+	<item value="C:\Users\jpnib\Documents\TMP\sensor_actuator_emulator\sensor_actuator_emulator.sdk\sdk_workspace\sw_arm_c0\Debug" key="debug_data_file_selection"/>
+	<item value="\\VBOXSVR\Windows11Shared\sensor_actuator_emulator\sensor_actuator_emulator.sdk" key="com.xilinx.sdk.hw.ui.hwspec.last"/>
+	<item value="\\VBOXSVR\Windows11Shared\sensor_actuator_emulator\sensor_actuator_emulator.runs\impl_1" key="program_fpga_view_bit_bmm_browse_key"/>
+	<item value="C:\Users\jpnib\Documents\TMP\sensor_actuator_emulator\sensor_actuator_emulator.sdk\tmp_create_boot_image" key="zynq_flash_files_selection"/>
+	<item value="\\VBOXSVR\Windows11Shared\sensor_actuator_emulator\sensor_actuator_emulator.sdk" key="last_stored_selection"/>
+</section>

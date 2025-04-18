@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2016.1 (64-bit)
+# SW Build 1538259 on Fri Apr  8 15:45:23 MDT 2016
+# IP Build 1537824 on Fri Apr  8 04:28:57 MDT 2016
+# Start of session at: Sat Apr 12 20:02:26 2025
+# Process ID: 703547
+# Current directory: /home/jonas/Documents/Windows11Shared/sensor_actuator_emulator/sensor_actuator_emulator.runs/synth_1
+# Command line: vivado -log sensor_actuator_emulator_wrapper.vds -mode batch -messageDb vivado.pb -notrace -source sensor_actuator_emulator_wrapper.tcl
+# Log file: /home/jonas/Documents/Windows11Shared/sensor_actuator_emulator/sensor_actuator_emulator.runs/synth_1/sensor_actuator_emulator_wrapper.vds
+# Journal file: /home/jonas/Documents/Windows11Shared/sensor_actuator_emulator/sensor_actuator_emulator.runs/synth_1/vivado.jou
+#-----------------------------------------------------------
+source sensor_actuator_emulator_wrapper.tcl -notrace

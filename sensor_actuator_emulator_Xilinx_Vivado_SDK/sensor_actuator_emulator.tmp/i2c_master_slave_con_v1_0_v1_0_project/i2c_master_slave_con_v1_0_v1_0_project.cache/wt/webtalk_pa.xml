@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<document>
+<!--The data in this file is primarily intended for consumption by Xilinx tools.
+The structure and the elements are likely to change over the next few releases.
+This means code written to parse this file will need to be revisited each subsequent release.-->
+<application name="pa" timeStamp="Fri Dec 13 19:46:01 2024">
+<section name="Project Information" visible="false">
+<property name="ProjectID" value="fb1778f61cc24abb95c9c68b9cc4d9c5" type="ProjectID"/>
+<property name="ProjectIteration" value="1" type="ProjectIteration"/>
+</section>
+<section name="PlanAhead Usage" visible="true">
+<item name="Project Data">
+<property name="SrcSetCount" value="1" type="SrcSetCount"/>
+<property name="ConstraintSetCount" value="1" type="ConstraintSetCount"/>
+<property name="DesignMode" value="RTL" type="DesignMode"/>
+<property name="SynthesisStrategy" value="Vivado Synthesis Defaults" type="SynthesisStrategy"/>
+<property name="ImplStrategy" value="Vivado Implementation Defaults" type="ImplStrategy"/>
+</item>
+<item name="Java Command Handlers">
+<property name="AddFileGroupHandler" value="2" type="JavaHandler"/>
+<property name="AddSources" value="2" type="JavaHandler"/>
+<property name="CloseProject" value="1" type="JavaHandler"/>
+<property name="EditInIPPackagerHandler" value="1" type="JavaHandler"/>
+<property name="IPPackagerHandler" value="2" type="JavaHandler"/>
+<property name="IPPackagerWizardHandler" value="1" type="JavaHandler"/>
+<property name="SaveFileProxyHandler" value="1" type="JavaHandler"/>
+</item>
+<item name="Gui Resources Info">
+<property name="CANCEL, Cancel" value="1" type="GuiResourceData"/>
+<property name="FINISH, Finish" value="2" type="GuiResourceData"/>
+<property name="NEXT, Next " value="5" type="GuiResourceData"/>
+<property name="PAResourceAtoD.AddFileGroupDialog_FILE_GROUP_TABLE, [File Group, Standard, Simulation], 2, false" value="1" type="GuiResourceData"/>
+<property name="PAResourceAtoD.AddFileGroupDialog_FILE_GROUP_TABLE, [File Group, Standard, Synthesis], 1, false" value="1" type="GuiResourceData"/>
+<property name="PAResourceAtoD.CoreTreeTablePanel_CORE_TREE_TABLE, i2c_master_slave_con_v1_0 ;  ; Production ; Included ; user.org:user:i2c_master_slave_con:1.0, 6, i2c_master_slave_con_v1_0, 0, true, false, false, false, true, false" value="1" type="GuiResourceData"/>
+<property name="PAResourceCommand.PACommandNames_ADD_SOURCES, Add Sources..." value="2" type="GuiResourceData"/>
+<property name="PAResourceCommand.PACommandNames_AUTO_UPDATE_HIER, Hierarchy Update" value="6" type="GuiResourceData"/>
+<property name="PAResourceCommand.PACommandNames_EDIT_IN_IP_PACKAGER, Edit in IP Packager" value="1" type="GuiResourceData"/>
+<property name="PAResourceCommand.PACommandNames_IP_PACKAGER_WIZARD, Create and Package IP..." value="1" type="GuiResourceData"/>
+<property name="PAResourceCommand.PACommandNames_PACKAGER_ADD_FILE_GROUP, Add File Group..." value="2" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileGroupFacetTable_COPY_TO, Copy To" value="4" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileGroupFacetTable_FILE_GROUP_FACET_TABLE, Simulation ;  ;  ; false ;  ; , 18" value="2" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileGroupFacetTable_FILE_GROUP_FACET_TABLE, Simulation ;  ;  ; false ;  ; , 2, Simulation, 0, false" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileGroupFacetTable_FILE_GROUP_FACET_TABLE, Simulation ;  ;  ; false ;  ; i2c_master_slave_con, 3" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileGroupFacetTable_FILE_GROUP_FACET_TABLE, Standard ;  ;  ; false ;  ; , 0" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileGroupFacetTable_FILE_GROUP_FACET_TABLE, Standard ;  ;  ; false ;  ; , 0, Standard, 0, false" value="2" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileGroupFacetTable_FILE_GROUP_FACET_TABLE, Standard ;  ;  ; false ;  ; , 0, Standard, 0, false, false, false, false, true, false" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileGroupFacetTable_FILE_GROUP_FACET_TABLE, Standard ;  ;  ; false ;  ; , 0, Standard, 0, true, false, false, false, true, false" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileGroupFacetTable_FILE_GROUP_FACET_TABLE, Synthesis ;  ;  ; false ;  ; i2c_master_slave_con, 1" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileGroupFacetTable_FILE_GROUP_FACET_TABLE, VHDL Simulation ;  ;  ; false ;  ; imu_sensor_v1_0, 20, VHDL Simulation, 0, false" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileGroupFacetTable_FILE_GROUP_FACET_TABLE, VHDL Simulation ;  ;  ; false ;  ; imu_sensor_v1_0, 20, VHDL Simulation, 0, false, false, false, false, true, false" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileGroupFacetTable_FILE_GROUP_FACET_TABLE, VHDL Simulation ;  ;  ; false ;  ; imu_sensor_v1_0, 5" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileGroupFacetTable_FILE_GROUP_FACET_TABLE, VHDL Synthesis ;  ;  ; false ;  ; imu_sensor_v1_0, 2" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileGroupFacetTable_FILE_GROUP_FACET_TABLE, VHDL Synthesis ;  ;  ; false ;  ; imu_sensor_v1_0, 20, VHDL Synthesis, 0, false" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileGroupFacetTable_FILE_GROUP_FACET_TABLE, VHDL Synthesis ;  ;  ; false ;  ; imu_sensor_v1_0, 20, VHDL Synthesis, 0, false, false, false, false, true, false" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileGroupFacetTable_FILE_GROUP_FACET_TABLE, hdl/imu_sensor_i2cSlave_define.v ;  ; verilogSource ; false ; xilinx_anylanguagesynthesis ; , 8, (String" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileGroupFacetTable_FILE_GROUP_FACET_TABLE, hdl/imu_sensor_imu_sensor.v ;  ; verilogSource ; false ; xilinx_vhdlbehavioralsimulation ; , 19, hdl/imu_sensor_imu_sensor.v, 0, false" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileGroupFacetTable_FILE_GROUP_FACET_TABLE, hdl/imu_sensor_lfsr.vhd ;  ; vhdlSource ; false ; xilinx_anylanguagesynthesis ; , 3, (String" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileGroupFacetTable_FILE_GROUP_FACET_TABLE, hdl/imu_sensor_lfsr.vhd ;  ; vhdlSource ; false ; xilinx_vhdlsynthesis ; , 6, hdl/imu_sensor_lfsr.vhd, 0, false" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileGroupFacetTable_FILE_GROUP_FACET_TABLE, hdl/imu_sensor_noise_apply.vhd ;  ; vhdlSource ; false ; xilinx_anylanguagesynthesis ; , 2, (String" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileGroupFacetTable_FILE_GROUP_FACET_TABLE, hdl/imu_sensor_noise_apply.vhd ;  ; vhdlSource ; false ; xilinx_vhdlbehavioralsimulation ; , 22, hdl/imu_sensor_noise_apply.vhd, 0, false" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileGroupFacetTable_FILE_GROUP_FACET_TABLE, hdl/imu_sensor_noise_apply.vhd ;  ; vhdlSource ; false ; xilinx_vhdlbehavioralsimulation ; , 6, hdl/imu_sensor_noise_apply.vhd, 0, false" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileGroupFacetTable_FILE_GROUP_FACET_TABLE, hdl/imu_sensor_noise_apply.vhd ;  ; vhdlSource ; false ; xilinx_vhdlsynthesis ; , 3, hdl/imu_sensor_noise_apply.vhd, 0, false" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileGroupFacetTable_FILE_GROUP_FACET_TABLE, hdl/imu_sensor_noise_apply.vhd ;  ; vhdlSource ; false ; xilinx_vhdlsynthesis ; , 5, hdl/imu_sensor_noise_apply.vhd, 0, false" value="2" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileGroupFacetTable_FILE_GROUP_FACET_TABLE, hdl/imu_sensor_v1_0.vhd ;  ; vhdlSource ; false ; xilinx_anylanguagesynthesis ; , 17" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileGroupFacetTable_FILE_GROUP_FACET_TABLE, hdl/imu_sensor_v1_0.vhd ;  ; vhdlSource ; false ; xilinx_anylanguagesynthesis ; , 17, (String" value="6" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileGroupFacetTable_FILE_GROUP_FACET_TABLE, hdl/imu_sensor_v1_0.vhd ;  ; vhdlSource ; false ; xilinx_anylanguagesynthesis ; , 17, hdl/imu_sensor_v1_0.vhd, 0, false" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileGroupFacetTable_FILE_GROUP_FACET_TABLE, hdl/imu_sensor_v1_0.vhd ;  ; vhdlSource ; false ; xilinx_anylanguagesynthesis ; , 17, hdl/imu_sensor_v1_0.vhd, 0, false, false, false, false, true, false" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileGroupFacetTable_FILE_GROUP_FACET_TABLE, hdl/imu_sensor_v1_0.vhd ;  ; vhdlSource ; false ; xilinx_vhdlbehavioralsimulation ; , 21, hdl/imu_sensor_v1_0.vhd, 0, false, true, false, false, false, false" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileGroupFacetTable_FILE_GROUP_FACET_TABLE, hdl/imu_sensor_v1_0.vhd ;  ; vhdlSource ; false ; xilinx_vhdlbehavioralsimulation ; , 37, hdl/imu_sensor_v1_0.vhd, 0, false, false, false, false, true, false" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileGroupFacetTable_FILE_GROUP_FACET_TABLE, hdl/imu_sensor_v1_0.vhd ;  ; vhdlSource ; false ; xilinx_vhdlbehavioralsimulation ; , 37, hdl/imu_sensor_v1_0.vhd, 0, false, true, false, false, false, false" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileGroupFacetTable_FILE_GROUP_FACET_TABLE, hdl/imu_sensor_v1_0.vhd ;  ; vhdlSource ; false ; xilinx_vhdlsynthesis ; , 18, hdl/imu_sensor_v1_0.vhd, 0, false, true, false, false, false, false" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileGroupFacetTable_FILE_GROUP_FACET_TABLE, hdl/imu_sensor_v1_0.vhd ;  ; vhdlSource ; false ; xilinx_vhdlsynthesis ; , 20, hdl/imu_sensor_v1_0.vhd, 0, false, true, false, false, false, false" value="2" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileGroupFacetTable_FILE_GROUP_FACET_TABLE, hdl/imu_sensor_v1_0_S00_AXI.vhd ;  ; vhdlSource ; false ; xilinx_anylanguagesynthesis ; , 16, (String" value="3" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileGroupFacetTable_FILE_GROUP_FACET_TABLE, hdl/imu_sensor_v1_0_S00_AXI.vhd ;  ; vhdlSource ; false ; xilinx_vhdlsynthesis ; , 19, hdl/imu_sensor_v1_0_S00_AXI.vhd, 0, false, false, false, false, true, false" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileGroupFacetTable_REMOVE_FILE, Remove File" value="2" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileGroupFacetTable_REMOVE_FILE_GROUP, Remove File Group" value="2" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, [root, Design Sources, IP-XACT], 8" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, [root, Design Sources, Verilog], 1" value="2" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, [root, Design Sources, imu_sensor_imu_sensor (imu_sensor_imu_sensor.v" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, [root, Design Sources, imu_sensor_v1_0 - arch_imp (imu_sensor_v1_0.vhd" value="20" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, [root, Design Sources], 0, true, false, false, false, true, false" value="2" type="GuiResourceData"/>
+<property name="PAResourceItoN.MainMenuMgr_FLOW, Flow" value="2" type="GuiResourceData"/>
+<property name="PAResourceItoN.MainMenuMgr_REPORT, Report" value="3" type="GuiResourceData"/>
+<property name="PAResourceItoN.MainMenuMgr_TOOLS, Tools" value="6" type="GuiResourceData"/>
+<property name="PAResourceItoN.MainMenuMgr_VIEW, View" value="2" type="GuiResourceData"/>
+<property name="PAResourceItoN.MainMenuMgr_WINDOW, Window" value="4" type="GuiResourceData"/>
+<property name="PAResourceItoN.MessageBanner_CHANGES_DETECTED_IN_VIVADO_PROJECT_THAT, Merge changes from File Groups Wizard" value="1" type="GuiResourceData"/>
+<property name="PAResourceItoN.MessageBanner_SEE_LIST_OF_ERROR_MESSAGES, 2 errors" value="1" type="GuiResourceData"/>
+<property name="PAResourceItoN.MsgTreePanel_MESSAGE_VIEW_TREE, [, IP Packager, File Groups Wizard, [IP_Flow 19-407] File Group 'xilinx_anylanguagesynthesis (Synthesis" value="1" type="GuiResourceData"/>
+<property name="PAResourceItoN.NewIpWizard_CREATE_NEW_AXI4_IP_CREATE_AXI4, Create a new AXI4 peripheral. Create an AXI4 IP, driver, software test application, IP Integrator AXI4 BFM simulation and debug demonstration design." value="1" type="GuiResourceData"/>
+<property name="PAResourceItoN.NewIpWizard_DESCRIPTION_MY_NEW_AXI_IP, IMU Sensor with I2C/SPI Interface and AXI Slave Reg/Tick Data Streaming" value="1" type="GuiResourceData"/>
+<property name="PAResourceItoN.NewIpWizard_EDIT_IP, Edit IP" value="1" type="GuiResourceData"/>
+<property name="PAResourceItoN.NewIpWizard_IP_DEFINITION_SOURCE_LOCATION, (String" value="1" type="GuiResourceData"/>
+<property name="PAResourceItoN.NewIpWizard_NAME_MYIP, imu_sensor" value="1" type="GuiResourceData"/>
+<property name="PAResourceOtoP.PAViews_CODE, Code" value="2" type="GuiResourceData"/>
+<property name="PAResourceOtoP.PackagerStepsPanel_PACKAGER_STEPS_LIST, Compatibility, 1" value="1" type="GuiResourceData"/>
+<property name="PAResourceOtoP.PackagerStepsPanel_PACKAGER_STEPS_LIST, File Groups, 2" value="3" type="GuiResourceData"/>
+<property name="PAResourceQtoS.SrcChooserPanel_ADD_HDL_AND_NETLIST_FILES_TO_YOUR_PROJECT, Add Files" value="1" type="GuiResourceData"/>
+<property name="PAResourceQtoS.SrcMenu_IP_HIERARCHY, IP Hierarchy" value="6" type="GuiResourceData"/>
+<property name="RDIResource.BaseDialog_OK, OK" value="4" type="GuiResourceData"/>
+<property name="RDIResource.MainWinMenuMgr_LAYOUT, Layout" value="5" type="GuiResourceData"/>
+<property name="RDIResourceCommand.RDICommands_CUSTOM_COMMANDS, Customize Commands" value="2" type="GuiResourceData"/>
+<property name="imu_sensor_v1_0.vhd, 109, 87" value="1" type="GuiResourceData"/>
+<property name="imu_sensor_v1_0.vhd, 1221, 326" value="1" type="GuiResourceData"/>
+<property name="imu_sensor_v1_0.vhd, 159, 582" value="1" type="GuiResourceData"/>
+<property name="imu_sensor_v1_0.vhd, 203, 486" value="1" type="GuiResourceData"/>
+<property name="imu_sensor_v1_0.vhd, 292, 523" value="1" type="GuiResourceData"/>
+<property name="imu_sensor_v1_0.vhd, 371, 233" value="1" type="GuiResourceData"/>
+<property name="imu_sensor_v1_0.vhd, 62, 240" value="1" type="GuiResourceData"/>
+<property name="imu_sensor_v1_0.vhd, 655, 244" value="1" type="GuiResourceData"/>
+<property name="imu_sensor_v1_0.vhd, 749, 457" value="1" type="GuiResourceData"/>
+<property name="imu_sensor_v1_0.vhd, 81, 486" value="1" type="GuiResourceData"/>
+<property name="imu_sensor_v1_0_S00_AXI.vhd, 113, 89" value="1" type="GuiResourceData"/>
+<property name="imu_sensor_v1_0_S00_AXI.vhd, 160, 313" value="1" type="GuiResourceData"/>
+<property name="imu_sensor_v1_0_S00_AXI.vhd, 201, 583" value="1" type="GuiResourceData"/>
+<property name="imu_sensor_v1_0_S00_AXI.vhd, 289, 273" value="1" type="GuiResourceData"/>
+<property name="imu_sensor_v1_0_S00_AXI.vhd, 291, 791" value="1" type="GuiResourceData"/>
+<property name="imu_sensor_v1_0_S00_AXI.vhd, 320, 185" value="1" type="GuiResourceData"/>
+<property name="imu_sensor_v1_0_S00_AXI.vhd, 473, 228" value="1" type="GuiResourceData"/>
+<property name="imu_sensor_v1_0_S00_AXI.vhd, 658, 445" value="1" type="GuiResourceData"/>
+<property name="imu_sensor_v1_0_S00_AXI.vhd, 78, 355" value="1" type="GuiResourceData"/>
+<property name="imu_sensor_v1_0_S00_AXI.vhd, 82, 183" value="1" type="GuiResourceData"/>
+</item>
+<item name="Other">
+<property name="GuiMode" value="85" type="GuiMode"/>
+<property name="BatchMode" value="0" type="BatchMode"/>
+<property name="TclMode" value="83" type="TclMode"/>
+</item>
+</section>
+</application>
+</document>

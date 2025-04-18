@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="sensor_actuator_emulator" key="programflash.hwplatform"/>
+	<item value="false" key="sensor_actuator_emulator-blankCheck"/>
+	<item value="false" key="sensor_actuator_emulator-verifyFlash"/>
+	<item value="" key="sensor_actuator_emulator-fsblFile"/>
+	<item value="" key="sensor_actuator_emulator-offSet"/>
+	<item value="C:\Users\jpnib\Documents\TMP\sensor_actuator_emulator\sensor_actuator_emulator.sdk\tmp_create_boot_image\BOOT.bin" key="sensor_actuator_emulator-imgFile"/>
+	<item value="Local" key="sensor_actuator_emulator-target"/>
+	<item value="qspi_single" key="sensor_actuator_emulator-flashType"/>
+	<item value="Auto Detect" key="sensor_actuator_emulator-device"/>
+</section>
